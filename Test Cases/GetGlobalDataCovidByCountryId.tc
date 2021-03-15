@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetGlobalDataCovidByCountryId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e104bc9-fc35-4aaf-bf86-9f1b022125b3</testCaseGuid>
+</TestCaseEntity>
